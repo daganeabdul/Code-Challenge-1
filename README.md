@@ -11,5 +11,12 @@ Kenyan Chai Calculator – Determines the ingredients needed for a given number 
 Each program uses basic JavaScript concepts like `prompt()`, functions, conditionals, and `console.log()` to interact with the user.
 
 
+  License
+
+This project is licensed under the [MIT License](./LICENSE).  
+Feel free to use, modify, and distribute it as needed!
+
+
+
 
 
